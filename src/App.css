@@ -6,8 +6,8 @@ html,
 
 body {
   background-color: white;
-  background-repeat:no-repeat;
-  background-position:center;
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   background-image: url("./assets/layered-waves-haikei.svg");
 }
@@ -18,8 +18,8 @@ body {
   z-index: -1;
   height: 100vh;
   width: 100%;
-  background-repeat:no-repeat;
-  background-position:center;
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   background-image: url("./assets/layered-waves-haikei.svg");
 }
@@ -215,26 +215,26 @@ body {
   }
 }
 
-.footer-div{
-    background:#eae9ee;
-    color: black;
-    padding: 11px;
-    margin-top: 36%;
-    display: flex;
-    font-family: "Roboto Condensed", sans-serif;
-    flex-direction: column;
-    align-items: center;
+.footer-div {
+  background: #eae9ee;
+  color: black;
+  padding: 11px;
+  margin-top: 36%;
+  display: flex;
+  font-family: "Roboto Condensed", sans-serif;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* ------------------------------------------------------------------ */
 
-.add-btn{
-    border: none;
-    border-radius: 5px;
-    color: #fafafa;
-    background: #1e9afe;
-    padding: 1rem;
-    width: 100px;
+.add-btn {
+  border: none;
+  border-radius: 5px;
+  color: #fafafa;
+  background: #1e9afe;
+  padding: 1rem;
+  width: 100px;
 }
 
 h2 {
@@ -245,16 +245,16 @@ h2 {
   margin-bottom: 30px;
 }
 
-.expense-name{
-    height: 20px;
-    width: 10vw;
-    border: 0;
-    border-bottom: black 1px solid;
-    margin-bottom: 1rem;
+.expense-name {
+  height: 20px;
+  width: 10vw;
+  border: 0;
+  border-bottom: black 1px solid;
+  margin-bottom: 1rem;
 }
-.content2{
-font-size:1.3rem;
-font-family: "Varela Round", sans-serif;
+.content2 {
+  font-size: 1.3rem;
+  font-family: "Varela Round", sans-serif;
 }
 
 #wrapper {
@@ -336,5 +336,4 @@ font-family: "Varela Round", sans-serif;
       margin: 0;
     }
   }
-
 }

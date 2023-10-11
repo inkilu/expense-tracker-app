@@ -1,5 +1,5 @@
-export default function Dashboard({totalAmountToShow}) {
-    console.log(totalAmountToShow);
+export default function Dashboard({ totalAmountToShow }) {
+  console.log(totalAmountToShow);
   return (
     <div>
       <div id="popup2" class="overlay light">

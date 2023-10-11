@@ -1,6 +1,6 @@
 import moment from "moment/moment";
 export default function Item({ itemDetails }) {
-  let calculatedDate = moment(itemDetails.date,"DD/MM/YYYY");
+  let calculatedDate = moment(itemDetails.date, "DD/MM/YYYY");
   return (
     <div>
       <div className="expense-item">
